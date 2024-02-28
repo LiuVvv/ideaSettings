@@ -1,0 +1,12 @@
+<application>
+  <component name="UISettings">
+    <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="MAX_LOOKUP_WIDTH2" value="689" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="PIN_FIND_IN_PATH_POPUP" value="true" />
+    <option name="PRESENTATION_MODE_FONT_SIZE" value="20" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
+  </component>
+</application>
