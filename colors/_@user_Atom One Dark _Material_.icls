@@ -4,7 +4,7 @@
     <property name="created">2024-02-28T22:09:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2023.3.4.0.0</property>
-    <property name="modified">2024-04-11T21:57:04</property>
+    <property name="modified">2024-08-21T12:47:37</property>
     <property name="originalScheme">Atom One Dark (Material)</property>
     <property name="partialSave">true</property>
     <property name="pluginId">com.chrisrm.idea.MaterialThemeUI</property>
@@ -29,6 +29,9 @@
   </console-font>
   <colors>
     <option name="FILESTATUS_ADDED" value="98c379" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="98c379" />
     <option name="FILESTATUS_MODIFIED" value="e5c17c" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
   </colors>
